@@ -1,4 +1,3 @@
-# SlangTrack-ST-Dataset-Word-Sense-Disambiguation-WSD-
 # 🧠 SlangTrack (ST) Dataset – Word Sense Disambiguation (WSD) Subset
 
 > A fine-grained, annotated subset for evaluating Word Sense Disambiguation on slang and standard usage over time.
