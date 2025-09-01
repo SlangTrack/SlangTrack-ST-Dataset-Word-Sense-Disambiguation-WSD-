@@ -23,6 +23,25 @@ Each instance is annotated with:
 - The **time period** (T1, T2, or T3)
 - The **sentence context**
 
+## 📊 Word Counts by Time Period
+
+Below is the distribution of sentence instances per word across T1, T2, and T3, extracted from the dataset:
+
+| word     |   T1 |   T2 |   T3 |  
+|:---------|-----:|-----:|-----:|
+| BMW      |   91 |  141 |  865 | 
+| Brownie  |   73 |   72 |  819 |  
+| Chronic  |  482 |  380 |  823 |   
+| Climber  |   75 |   50 |  517 |   
+| Cucumber |   74 |   85 |  892 |   
+| Eat      |    0 |    0 |    0 |  
+| Germ     |  112 |   70 |  650 |   
+| Mammy    |  172 |   22 |  876 |    
+| Rodent   |  101 |   67 |  905 |   
+| Salty    |  214 |  165 |  887 |    
+
+---
+
 **Example — Word: "Eat"**
 
 | Time Period | Sentence                                                                 | Assigned Sense                                 |
