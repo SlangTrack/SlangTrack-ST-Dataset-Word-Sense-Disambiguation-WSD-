@@ -9,7 +9,6 @@
 
 
 
-
 It includes 10 carefully selected words, each with up to 8 senses, annotated across **three distinct time periods**:
 - **T1:** 1980–1999  
 - **T2:** 2000–2009  
@@ -18,7 +17,14 @@ It includes 10 carefully selected words, each with up to 8 senses, annotated acr
 Each word instance is labelled with the exact sense it conveys in context, enabling high-resolution tracking of sense evolution across decades.
 
 ---
+📦 Data Sources
+Historical English: Corpus of Historical American English (COHA)
+Contemporary English: Twitter corpus (2010–2020)
+Sense Inventories:
+Oxford English Dictionary (standard senses)
+Urban Dictionary, Green’s Dictionary of Slang, Online Slang Dictionary (slang senses)
 
+---
 ## 📝 Data Format
 
 Each instance is annotated with:
@@ -27,6 +33,7 @@ Each instance is annotated with:
 - The **time period** (T1, T2, or T3)
 - The **sentence context**
 
+---
 ## 📊 Word Counts by Time Period
 
 Below is the distribution of sentence instances per word across T1, T2, and T3, extracted from the dataset:
