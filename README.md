@@ -64,8 +64,3 @@ Below is the distribution of sentence instances per word across T1, T2, and T3, 
 ## 📁 Access
 
 The dataset is **available upon request** from the corresponding author of the original paper.  
-
----
-
-## 📄 Citation
-
