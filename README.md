@@ -1,10 +1,14 @@
 # 🧠 SlangTrack (ST) Dataset – Word Sense Disambiguation (WSD) Subset
 
-> A fine-grained, annotated subset for evaluating Word Sense Disambiguation on slang and standard usage over time.
-
 ## 📚 Overview
+- The SlangTrack (ST)– Word Sense Disambiguation (WSD) dataset is a manually annotated **subset** subset of the larger Bi-Directional Lexical Semantic Change (BD-LSC) dataset     specifically designed for evaluating **Word Sense Disambiguation (WSD)** in a temporal, slang-rich context.
+- It provides instance-level annotations for 10 carefully chosen words that exhibit both standard and slang senses.
+- Each occurrence of a target word is annotated with the most appropriate sense, enabling high-resolution WSD evaluation.
+- The dataset captures how slang and standard word meanings shift over time across three distinct periods
 
-**SlangTrack (ST) Word Sense Disambiguation ** is a manually annotated **subset** of the larger BD-LSC dataset, specifically designed for evaluating **Word Sense Disambiguation (WSD)** in a temporal, slang-rich context.
+
+
+
 
 It includes 10 carefully selected words, each with up to 8 senses, annotated across **three distinct time periods**:
 - **T1:** 1980–1999  
@@ -50,3 +54,11 @@ Below is the distribution of sentence instances per word across T1, T2, and T3, 
 | T1          | “She made him eat all his vegetables before dessert.”                   | Consuming food (S1)                            |
 
 ---
+## 📁 Access
+
+The dataset is **available upon request** from the corresponding author of the original paper.  
+
+---
+
+## 📄 Citation
+
