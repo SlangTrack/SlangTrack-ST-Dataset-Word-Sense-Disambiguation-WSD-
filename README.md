@@ -4,7 +4,7 @@
 
 ## 📚 Overview
 
-**SlangTrack (ST)** is a manually annotated **subset** of the larger BD-LSC dataset, specifically designed for evaluating **Word Sense Disambiguation (WSD)** in a temporal, slang-rich context.
+**SlangTrack (ST) Word Sense Disambiguation ** is a manually annotated **subset** of the larger BD-LSC dataset, specifically designed for evaluating **Word Sense Disambiguation (WSD)** in a temporal, slang-rich context.
 
 It includes 10 carefully selected words, each with up to 8 senses, annotated across **three distinct time periods**:
 - **T1:** 1980–1999  
