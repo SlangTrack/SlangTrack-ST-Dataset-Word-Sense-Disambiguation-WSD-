@@ -1,4 +1,4 @@
-# 🧠 SlangTrack (ST) Dataset – Word Sense Disambiguation (WSD) Subset
+# 🧠 SlangTrack (ST) Dataset – Word Sense Disambiguation (WSD) 
 
 > A diachronic dataset for **Word Sense Disambiguation** in both slang and standard English across multiple decades.
 
@@ -101,10 +101,11 @@ Here are **sample contexts** from each timeline for each target word (illustrati
 | **Rodent**   | Which is the disguise of the man who will love you. That would be a rodent, then. Failing that, Charlene continued, ignoring Trudi, I would like a cat as big as a man. A cat as big as a man? Trudi frowned, trying to picture a man-sized cat. Yes. Imagine if men had fur. The waitress asked them if they wanted more of the weak green tea. For myself, the waitress said, uninvited, I prefer dogs. Charlene and Trudi swooned with delight at the idea of dogs instead.                                                         | Hello, Mrs. Houston, it’s Keefer. Yes, the reason I’m calling is a little strange, Mrs. Houston, but there’s this old book I have from back in Germany in the 1600s. It tells about a thing called the das Teufel Nagetier. Das what? Claire, who is it? Das Teufel Nagetier. I was going to tell you about it today, but Mr. Houston didn’t seem much in the mood for listening. Who is that? It’s late. Well, what is this Das Teufel, whatever it is? It translates into the devil rodent.                              | My sister smells like a rodent. And I’m ten feet away from her.                                                                                                                               |
 | **Salty**    | The cotton of his colorful sport shirt still seemed loaded near its tensile strength where it stretched over his middle. Franks rolled the stump of a dead cigar from one corner of his mouth to the other and winked at Jake. With his shoulders thrown back and his genial air of self-assurance and command, Franks reminded Jake of the salty chief petty officers he had grown to respect and admire when he was a junior officer. Franks certainly was no modern naval officer or chief in mufti, not with that gut…             | He told her what his mother had arranged: the job in Nethermede’s kitchen, the room in the sophomore dormitory, and that was what she thought of—of him kissing her against the refrigerator, and his salty knowingness sliding onto her tongue. And so, against every other obvious next step Cody’s family had presented to her, the job as an assistant cook at Nethermede Academy, seemingly ill-suited though it was, pleased her. Of course, she suspected as little as he…                                          | I just can’t wait for 9 o’clock, that’s when MY unranked, terrible, salty team plays. I couldn’t care less about the UL game. #bbn #gocats                                                    |
 
-
+---
 ## 🔖 License  
-
-
+SlangTrack (ST) Dataset – Word Sense Disambiguation (WSD) is built using a combination of licensed and publicly available corpora.
+All data has been preprocessed, anonymized, and randomized to comply with licensing agreements while preserving linguistic integrity.
+Some source corpora, such as COHA, require a paid license and restrict redistribution, but our processed dataset is legally shareable and publicly available for research.
 ---
 
 ## 📥 Download & Citation  
