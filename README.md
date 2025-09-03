@@ -105,4 +105,4 @@ Some source corpora, such as COHA, require a paid license and restrict redistrib
 
 ---
 ## 📥 Download & Citation  
-To access the dataset, visit the [SlangTrack Repository] ().
+To access the dataset, visit the [[SlangTrack Repository](https://github.com/SlangTrack/SlangTrack-ST-Dataset-Word-Sense-Disambiguation-WSD-/blob/main/SlangTrack-ST-Dataset-Word-Sense-Disambiguation-WSD.csv)] ().
