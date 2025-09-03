@@ -81,10 +81,6 @@ Words were selected based on:
 
 Here are **sample contexts** from each timeline for each target word (illustrative examples):  
 ## 📝 Sample Texts by Word and Timeline 
-
-
-
-
 ---
 
 
@@ -102,12 +98,10 @@ Here are **sample contexts** from each timeline for each target word (illustrati
 | **Salty**    | The cotton of his colorful sport shirt still seemed loaded near its tensile strength where it stretched over his middle. Franks rolled the stump of a dead cigar from one corner of his mouth to the other and winked at Jake. With his shoulders thrown back and his genial air of self-assurance and command, Franks reminded Jake of the **salty** chief petty officers he had grown to respect and admire when he was a junior officer. Franks certainly was no modern naval officer or chief in mufti, not with that gut… | He told her what his mother had arranged: the job in Nethermede’s kitchen, the room in the sophomore dormitory, and that was what she thought of—of him kissing her against the refrigerator, and his **salty** knowingness sliding onto her tongue. And so, against every other obvious next step Cody’s family had presented to her, the job as an assistant cook at Nethermede Academy, seemingly ill-suited though it was, pleased her. Of course, she suspected as little as he… | I just can’t wait for 9 o’clock, that’s when MY unranked, terrible, **salty** team plays. I couldn’t care less about the UL game. #bbn #gocats |
 
 
----
-## 🔖 License  
+🔖 **License**
 SlangTrack (ST) Dataset – Word Sense Disambiguation (WSD) is built using a combination of licensed and publicly available corpora.
 All data has been preprocessed, anonymized, and randomized to comply with licensing agreements while preserving linguistic integrity.
 Some source corpora, such as COHA, require a paid license and restrict redistribution, but our processed dataset is legally shareable and publicly available for research.
----
 
 ## 📥 Download & Citation  
 
